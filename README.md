@@ -8,6 +8,6 @@ This repository is to manage the different versions of code learn it in the univ
 - ### Modulo 2
   - #### Unidad 3
     - Expresiones en Pseudocódigo [Link](https://github.com/axel548/python_U/tree/master/Tarea%236_Expresiones_pseudocodigo)
-    - Ejercicios de Práctica
+    - Ejercicios de Práctica [Link](https://github.com/axel548/python_U/tree/master/Tarea%237_Ejercicios_Practica)
     - Solución de un problema e implementación [Link](https://github.com/axel548/python_U/tree/master/Tarea%238_Solucion_Problema_e_Implementacion)
 
